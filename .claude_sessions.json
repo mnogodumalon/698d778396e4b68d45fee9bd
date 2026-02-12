@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "id": "30e51901-d806-4035-a16c-9fff6d777087",
+      "name": "2026-02-12 06:54 - Initial build: Datenerfassung",
+      "created_at": "2026-02-12T06:54:13.550007Z",
+      "last_used": "2026-02-12T06:54:13.550007Z"
+    }
+  ],
+  "active_session": "30e51901-d806-4035-a16c-9fff6d777087"
+}
