@@ -1,0 +1,47 @@
+{
+  "appgroup_id": "698d778396e4b68d45fee9bd",
+  "appgroup_name": "Datenerfassung",
+  "apps": {
+    "datenerfassung": {
+      "app_id": "698d77713243f76fa48f2999",
+      "name": "Datenerfassung",
+      "controls": {
+        "feld_eins": {
+          "identifier": "feld_eins",
+          "label": "Feld 1",
+          "type": "string",
+          "subtype": "text",
+          "fulltype": "string/text",
+          "description": "A string value not longer than 4000 characters (or `null`/`None`).",
+          "required": null,
+          "in_list": true,
+          "in_mobile_list": true,
+          "in_text": true,
+          "in_structured_search": false,
+          "in_fulltext_search": false,
+          "in_expert_search": true
+        },
+        "feld_zwei": {
+          "identifier": "feld_zwei",
+          "label": "Feld 2",
+          "type": "string",
+          "subtype": "text",
+          "fulltype": "string/text",
+          "description": "A string value not longer than 4000 characters (or `null`/`None`).",
+          "required": null,
+          "in_list": true,
+          "in_mobile_list": true,
+          "in_text": true,
+          "in_structured_search": false,
+          "in_fulltext_search": false,
+          "in_expert_search": true
+        }
+      }
+    }
+  },
+  "metadata": {
+    "apps_list": [
+      "Datenerfassung"
+    ]
+  }
+}
